@@ -1,0 +1,10 @@
+transformers
+numpy
+pandas 
+seaborn
+matplotlib
+torch 
+torchvision
+torchaudio
+datasets
+tokenizers
